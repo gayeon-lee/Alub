@@ -1,3 +1,8 @@
+/**
+* 메모리: 2424 KB, 시간: 4 ms
+* 2022.04.26
+* by Alub
+*/
 #include <bits/stdc++.h>
 
 #define pii pair<int, int>
